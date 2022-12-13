@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tim
 - 👀 I’m interested in test automatization 
-- 🌱 I’m currently learning Pytho and Selenium
+- 🌱 I’m currently learning Python and Selenium
 - 💞️ I’m looking to collaborate on quality assurance 
 - 📫 How to reach me talbornoz@outlook.es
 
